@@ -1,1 +1,2 @@
-# railway-station
+# Railway Station
+This is an OpenGL project.
